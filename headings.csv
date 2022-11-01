@@ -1,0 +1,45 @@
+﻿code1,code2
+명호,animalName
+단축명호,animalNo
+등록번호,reg.num
+생년월일,birthDate
+산차,parity
+검정일,test.date
+최근분만일,recent.birth
+최근건유일,recent.dry
+누적착유일수,cum.dim
+유량,milk
+유지율,milk.fat
+유단백질,milk.protein
+무지고형분율,snf
+체세포수(천),scc.thou
+MUN,mun
+305일유량,milk305
+305일유지량,milk.fat305
+305일유단백,milk.protein305
+305일무지고형분량,snf305
+성년형유량,ma.milk
+성년형유지량,ma.milk.fat
+성년형유단백량,ma.milk.protein
+성년형무지고형분량,ma.milk.snf
+분만난이,birth.diffi
+가수제코드,reg.code
+가수제일자,reg.date
+농후사료비,con.feed
+농후사료급여량,con.feed.amount
+공태일수,empty.day
+최종수정일자,recent.insemi
+촤종수정횟수,recent.insemi.times
+최종수정정액코드,sperm.code
+체점수,bsc
+분만후첫수정일까지일수,day.birth.insemi
+전산차비유지속성,pre.parity.milking
+현재산차비유지속성,prity.milking
+비유최고도달일수,day.for.peak
+비유후기 최고유량,late.dim.max.milk
+비유초기 평균 유지율,earl.dim.mean.fat
+비유초기 평균 단백율,earl.dim.mean.protein
+비유초기 평균 MUN,earl.dim.mean.mun
+최고유량체세포,max.milk.scc
+건유전마지막유량,milk.before.dry
+전산차 건유전 유량,pre.parity.milk.before.dry
